@@ -1,3 +1,3 @@
 Hi there!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=relat-ivity)](https://github.com/relat-ivity/)
+[![Relativity's github stats](https://github-stats.maiicy.top/api?username=relat-ivity&show_icons=true&theme=radical)](https://github.com/relat-ivity)
